@@ -15,7 +15,7 @@ An in-depth **Exploratory Data Analysis (EDA)** conducted on a student performan
 ## 📂 Repository Deliverables
 All project files are organized directly in this repository:
 
-* 📄 **[source code.ipynb](source code.ipynb)** — Complete Python notebook covering data cleaning, statistical modeling, and visualization logic.
+* 📄 [source code.ipynb](source%20code.ipynb) — Complete Python notebook covering data cleaning, statistical modeling, and visualization logic.
 * 📑 **[cleaned_student_data.csv](cleaned_student_data.csv)** — Cleansed and processed student performance dataset.
 * 📈 **[Graphs.pdf](Graphs.pdf)** — Visualizations including score distributions, attendance tiers, and correlation scatter plots.
 * 📝 **[Student_Performance_Report.pdf.pdf](Student_Performance_Report.pdf.pdf)** — Executive summary report detailing analytical findings and recommendations.
