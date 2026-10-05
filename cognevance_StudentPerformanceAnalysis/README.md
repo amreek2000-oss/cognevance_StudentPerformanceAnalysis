@@ -20,6 +20,10 @@ All project files are organized directly in this repository:
 * 📈 **[Graphs.pdf](Graphs.pdf)** — Visualizations including score distributions, attendance tiers, and correlation scatter plots.
 * 📝 **[Student_Performance_Report.pdf.pdf](Student_Performance_Report.pdf.pdf)** — Executive summary report detailing analytical findings and recommendations.
 
+
+https://github.com/user-attachments/assets/7ccdbae8-2708-4db2-9e3d-854417cfda4f
+
+
 ---
 
 ## 📊 Key Findings & Insights
